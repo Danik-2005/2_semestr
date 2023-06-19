@@ -1,0 +1,129 @@
+*{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: rgb(254, 238, 218);
+}
+
+.App{
+    border: 2px solid rgb(250, 224, 193);
+    box-shadow: -10px 11px 12px 4px rgba(196, 159, 121, 0.2);
+    margin: 10px auto;
+    padding: 20px;
+    height: max-content;
+		width: max-content;
+    margin: 10px auto 30px;
+    background-color: rgb(255, 228, 196);
+    border-radius: 20px;
+}
+
+.separator05{
+	margin: 60px;
+	width: calc(100% - 120px);
+	height: 2px;
+	border-radius: 10px;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.separator02{
+	margin: 60px;
+	width: calc(100% - 120px);
+	height: 2px;
+	border-radius: 10px;
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+.table{
+	margin: auto;
+}
+
+.oneProduct{
+	margin: 0 60px;
+}
+
+.product_container{
+	display: flex;
+	position: relative;
+}
+
+.product_container .image{
+	display: flex;
+}
+
+.product_information{
+	margin: 0 25px;
+}
+.product_information h2{
+	width: 450px;
+}
+
+.product_information>h3 span{
+	font-weight: 300;
+	color: gray;
+	text-decoration: line-through;
+}
+
+.description{
+	line-height: 1.5;
+	text-align: left;
+	display: inline-block;
+	width: 450px;
+}
+
+.newInfo, .saleInfo{
+	display: inline-block;
+	padding: 10px 8px;
+	margin-right: 5px;
+	border-radius: 5px;
+}
+
+.newInfo{
+	background-color: rgb(227, 227, 227);
+}
+
+.saleInfo{
+	background-color: rgb(220, 70, 71);
+	color: white;
+}
+
+.info{
+	margin: 5px;
+	position: absolute;
+	display: flex;
+}
+
+.info .newInfo, .saleInfo{
+	display: none;
+}
+
+.info.new .newInfo{
+	display: block;
+}
+
+.info.sale .saleInfo{
+	display: block;
+}
+
+.Catalog_buttons{
+	margin: 0 60px 30px;
+	display: flex;
+}
+
+.Catalog_buttons button{
+	width: 25%;
+	margin: 10px;
+	height: 45px;
+
+	border-radius: 4px;
+	border-width: 1px;
+	background-color: rgb(227, 227, 227);
+}
+
+.Catalog_buttons button:hover{
+	background-color: rgb(239, 239, 239);
+}
+
+.Catalog_buttons button:active{
+	background-color: rgb(255, 255, 255);
+}

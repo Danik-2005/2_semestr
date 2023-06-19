@@ -1,0 +1,42 @@
+.note_container{
+    padding: 20px;
+    min-width: 200px;
+    max-width: 700px;
+    width: max-content;
+    height: max-content;
+}
+
+input{
+    width: 99%;
+    padding: 3px 0;
+    text-align: center;
+}
+
+textarea{
+    max-width: 100%;
+    width: calc(100% - 2*6px);
+    min-width: 200px;
+    padding: 5px;
+}
+
+
+
+.note{
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px 20px 10px 20px;
+    margin: 20px 10px;
+    background-color:yellow;
+}
+
+.note h2, h3, h4, h5, h6{
+    display: inline-block;
+    text-align: center;
+}
+
+.note p{
+    display: block;
+    max-width: max-content;
+    height: min-content;
+}
