@@ -1,0 +1,16 @@
+a{
+    color:rgb(226, 128, 43);
+    text-decoration: none;
+    text-align: left;
+    margin: 10px 10px 0 10px;
+    display: block;
+    text-transform: uppercase;
+}
+
+a:active,a:focus,a:hover{
+    text-decoration: underline;
+}
+
+li{
+    margin: 0 25px;
+}

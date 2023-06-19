@@ -1,0 +1,13 @@
+.form{
+    text-align: center;
+}
+
+.select_country{
+    width: 85px;
+    height: 21px;
+}
+
+.operators{
+    text-align: left;
+    margin: 0 40%;
+}

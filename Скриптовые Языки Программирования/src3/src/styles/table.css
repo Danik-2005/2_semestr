@@ -1,0 +1,23 @@
+.table{
+    width: max-content;
+}
+
+.th, .td{
+    display: inline-block;
+}
+
+.td{
+    width: 147px;
+    padding: 3px 5px;
+}
+
+.id{
+    width: 20px;
+}
+
+.tr{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+}
+.th{
+    border-bottom: 1px solid black;
+}

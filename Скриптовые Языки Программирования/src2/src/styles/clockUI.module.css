@@ -1,0 +1,11 @@
+select{
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+    height: 26px;
+    border-radius: 10px;
+}
+
+input[type=radio]{
+    margin: 0 0 0 5px;
+}
