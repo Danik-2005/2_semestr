@@ -1,0 +1,13 @@
+@import "./normalize.css";
+@import "./general.css";
+header {
+  height: 60px;
+}
+
+.main_content_container .content_container {
+  padding-top: 50px;
+}
+.main_content_container .content_container p {
+  margin-top: -10px;
+  line-height: 150%;
+}/*# sourceMappingURL=delivery-about.css.map */

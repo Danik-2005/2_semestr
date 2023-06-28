@@ -1,0 +1,29 @@
+@import "./normalize.css";
+@import "./general.css";
+
+header{
+    height: 60px;
+}
+
+.main_content_container{
+    p{
+        margin-top: -10px;
+        line-height: 150%;
+    }
+
+    .content_container{
+        height: max-content;
+        width: 100%;
+        padding: 80px 0;
+        
+        .content{
+            display: flex;
+            flex-direction: column;
+
+            .contacts_grid{
+                display: flex;
+                gap: 20px;
+            }
+        }
+    }
+}

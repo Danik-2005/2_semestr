@@ -1,0 +1,62 @@
+<cards>
+    <card>
+        <image>../img/doll1.png</image>
+        <description>Куколка кошечка</description>
+        <cost>100 BYN</cost>
+    </card>
+    <card>
+        <image>../img/doll2.png</image>
+        <description>Куколка в красном платьице</description>
+        <cost>100 BYN</cost>
+    </card>
+    <card>
+        <image>../img/doll3.png</image>
+        <description>Куколка ученица</description>
+        <cost>100 BYN</cost>
+    </card>
+    <card>
+        <image>../img/doll4.png</image>
+        <description>Куколка Милочка</description>
+        <cost>100 BYN</cost>
+    </card>
+    <card>
+        <image>../img/doll5.png</image>
+        <description>Куколка для любимой жены</description>
+        <cost>100 BYN</cost>
+    </card>
+    <card>
+        <image>../img/doll6.png</image>
+        <description>Куколка для доченьки</description>
+        <cost>100 BYN</cost>
+    </card>
+    <card>
+        <image>../img/doll7.png</image>
+        <description>Куколка для мамочки</description>
+        <cost>100 BYN</cost>
+    </card>
+    <card>
+        <image>../img/doll8.png</image>
+        <description>Подружка с пионами</description>
+        <cost>100 BYN</cost>
+    </card>
+    <card>
+        <image>../img/doll9.png</image>
+        <description>Подружка Августина</description>
+        <cost>100 BYN</cost>
+    </card>
+    <card>
+        <image>../img/doll10.png</image>
+        <description>Куколка свекровушка</description>
+        <cost>100 BYN</cost>
+    </card>
+    <card>
+        <image>../img/doll11.png</image>
+        <description>Куколка первоклашка</description>
+        <cost>100 BYN</cost>
+    </card>
+    <card>
+        <image>../img/doll12.png</image>
+        <description>Куколка Мария</description>
+        <cost>100 BYN</cost>
+    </card>
+</cards>
